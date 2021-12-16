@@ -1,6 +1,6 @@
 ### Hi there , I'm Mohammad👋
 
-- 🔭 I’m currently working on Flutter
+- 🔭 i'm a Flutter developer from Iran
 - 💬 Ask me about Dart , Flutter and Clean Architecture
 
 <!--
