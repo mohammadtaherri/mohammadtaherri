@@ -1,7 +1,7 @@
 ### Hi there , I'm Mohammad👋
 
-- 🔭 i'm a Flutter developer from Iran
-- 💬 Ask me about Dart , Flutter and Clean Architecture
+- 🔭 i'm a Programmer from Iran
+- 💬 Ask me about Dart, Flutter, Clean Architecture and TDD.
 
 <!--
 **mohammadtaherri/mohammadtaherri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
