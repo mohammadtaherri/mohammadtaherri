@@ -1,10 +1,10 @@
-<!--
+
 ### Hi there , I'm Mohammad👋
 
 - 🔭 i'm a Programmer from Iran
 - 💬 Ask me about Dart, Flutter, Clean Architecture and TDD.
 
--->
+
 
 <!--
 **mohammadtaherri/mohammadtaherri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadtaherri&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
