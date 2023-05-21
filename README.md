@@ -2,7 +2,7 @@
 ### Hi there , I'm Mohammad👋
 
 - 🔭 i'm a Programmer from Iran
-- 💬 Ask me about Dart, Flutter, Clean Architecture and TDD.
+- 💬 Ask me about Dart, Flutter, Clean Code.
 
 
 
