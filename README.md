@@ -14,11 +14,11 @@
 - 💬 Ask me anything about .NET, Flutter, TDD, DDD, Clean Architecture,  Design Patterns, and so on.
 - 🌏 You can find me in social that is mentioned in top Or for fast way just send me a Mail in taherimohammad08@gmail.com
 
-<!--
+
 
 ### Languages & Tools
 <div>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Php-0277BD?style=flat-square&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Vue-4CAF50?style=flat-square&logo=vue&logoColor=white">
 <img src="https://img.shields.io/badge/SqlServer-A1887F?style=flat-square&logo=Mysql&logoColor=white">
 </div>
--->
+
 
 ### GitHub Statistics
 [![Mohammad Taheri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadtaherri&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
