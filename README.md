@@ -15,6 +15,7 @@
 - 🌏 You can find me in social that is mentioned in top Or for fast way just send me a Mail in taherimohammad08@gmail.com
 
 
+<!--
 
 ### Languages & Tools
 <div>
@@ -27,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/SqlServer-A1887F?style=flat-square&logo=mss&logoColor=white">
 </div>
-
+-->
 
 ### GitHub Statistics
 [![Mohammad Taheri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadtaherri&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
