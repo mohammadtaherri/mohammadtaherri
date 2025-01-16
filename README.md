@@ -18,7 +18,7 @@
 
 ### Languages & Tools
 <div>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C#-0175C2?style=flat-square&logo=c#&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Php-0277BD?style=flat-square&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
