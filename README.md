@@ -24,8 +24,8 @@
 
 <img src="https://img.shields.io/badge/Nodejs-4CAF50?style=flat-square&logo=Nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDb-4CAF50?style=flat-square&logo=MongoDb&logoColor=white">
-<img src="https://img.shields.io/badge/Vue-4CAF50?style=flat-square&logo=vue&logoColor=white">
-<img src="https://img.shields.io/badge/SqlServer-A1887F?style=flat-square&logo=Mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/SqlServer-A1887F?style=flat-square&logo=mss&logoColor=white">
 </div>
 
 
