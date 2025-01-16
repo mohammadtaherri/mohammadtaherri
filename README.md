@@ -19,11 +19,9 @@
 ### Languages & Tools
 <div>
 <img src="https://img.shields.io/badge/.NET-0175C2?style=flat-square&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/Sql Server-02569B?style=flat-square&logo=Sqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/Php-0277BD?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-F44336?style=flat-square&logo=Laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-ED8B00?style=flat-square&logo=flutter&logoColor=white">
+
 <img src="https://img.shields.io/badge/Nodejs-4CAF50?style=flat-square&logo=Nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDb-4CAF50?style=flat-square&logo=MongoDb&logoColor=white">
 <img src="https://img.shields.io/badge/Vue-4CAF50?style=flat-square&logo=vue&logoColor=white">
