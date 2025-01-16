@@ -35,8 +35,9 @@
 [![Mohammad Taheri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadtaherri&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtaherri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 <p align="center"> 
   Visitor count<br>
