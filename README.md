@@ -12,9 +12,12 @@
 
 </div>
 
- Hi, I'm Mohammad Taheri, a .NET and Flutter Developer From Iran
+I'm Mohammad a Backend Developer From Iran
 - 💬 Ask me anything about .NET, Flutter, TDD, DDD, Clean Architecture,  Design Patterns, and so on.
+
+<!--
 - 🌏 You can find me in social that is mentioned in top Or for fast way just send me a Mail in taherimohammad08@gmail.com
+-->
 
 
 <!--
