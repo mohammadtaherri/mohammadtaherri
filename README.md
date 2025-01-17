@@ -12,7 +12,7 @@
 
 </div>
 
-I'm Mohammad a Backend Developer From Iran
+I'm a Backend Developer From Iran
 - 💬 Ask me anything about .NET, Flutter, TDD, DDD, Clean Architecture,  Design Patterns, and so on.
 
 <!--
